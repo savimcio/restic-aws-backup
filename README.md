@@ -222,6 +222,8 @@ cd test
 
 MIT License
 
+This script uses Restic (https://github.com/restic/restic), which is licensed under the BSD 2-Clause License.
+
 ---
 
 Based on [Restic](https://restic.net/)
